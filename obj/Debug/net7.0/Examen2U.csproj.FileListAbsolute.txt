@@ -1,0 +1,15 @@
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\Examen2U.csproj.AssemblyReference.cache
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\Examen2U.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\Examen2U.AssemblyInfoInputs.cache
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\Examen2U.AssemblyInfo.cs
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\Examen2U.csproj.CoreCompileInputs.cache
+C:\Users\cd13\Documents\DGGR\Examen2U\bin\Debug\net7.0\Examen2U.exe
+C:\Users\cd13\Documents\DGGR\Examen2U\bin\Debug\net7.0\Examen2U.deps.json
+C:\Users\cd13\Documents\DGGR\Examen2U\bin\Debug\net7.0\Examen2U.runtimeconfig.json
+C:\Users\cd13\Documents\DGGR\Examen2U\bin\Debug\net7.0\Examen2U.dll
+C:\Users\cd13\Documents\DGGR\Examen2U\bin\Debug\net7.0\Examen2U.pdb
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\Examen2U.dll
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\refint\Examen2U.dll
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\Examen2U.pdb
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\Examen2U.genruntimeconfig.cache
+C:\Users\cd13\Documents\DGGR\Examen2U\obj\Debug\net7.0\ref\Examen2U.dll
